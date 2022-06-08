@@ -1,0 +1,1 @@
+exit $(</app/system-status.txt)
