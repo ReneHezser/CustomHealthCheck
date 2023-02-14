@@ -1,5 +1,5 @@
 # For more information, please refer to https://aka.ms/vscode-docker-python
-FROM python:3.12.0a4-slim
+FROM python:3.12.0a5-slim
 LABEL org.opencontainers.image.source https://github.com/ReneHezser/CustomHealthCheck
 
 # Keeps Python from generating .pyc files in the container
